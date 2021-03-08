@@ -1,4 +1,4 @@
-# ETH-exercises & smaller projects 
+# Information Security Stuff  
 some graded and ungraded homeworks from different information security courses offered at ETH Zürich 
 
 ## Elliptic Curve Cryptography.
